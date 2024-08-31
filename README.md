@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on building responsive websites.
 - 🌱 I’m learning new frameworks and technologies to improve my skills.
 - 👯 I’m looking to collaborate on open-source projects.
+- 
  [![Resume Badge](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=readthedocs)](https://drive.google.com/file/d/1tGnxO2SL76msg2o8jZrXt64zXIvzAZHG/view?usp=drive_link)
  
 🛠️ Skills & Technologies
