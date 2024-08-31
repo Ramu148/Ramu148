@@ -5,21 +5,41 @@
 - 🌱 I’m learning new frameworks and technologies to improve my skills.
 - 👯 I’m looking to collaborate on open-source projects.
  
-🛠️ Skills
-- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
-- **Backend**: Node.js
-- **Database**: MongoDB, SQL
-- **Version Control**: Git, GitHub
-- **Tools**: VS Code,
+🛠️ Skills & Technologies
 
-👨‍💻 What I’m Currently Working On:
-- Building a dynamic **online food recipe platform** using **ReactJS** with interactive ordering features.
-- Exploring and contributing to open-source projects to improve my full-stack skills. 
+**Languages**:
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
 
-## 📫 Reach me at:
-- [LinkedIn](www.linkedin.com/in/ramu-v-3274452a0)
-- [Email](vramu7554@gmail.com)
+**Front-End**:
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) **React.js**
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap**
 
+**Back-End**:
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
+
+
+**Version Control**:
+- ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
+- ![GitHub](https://img.icons8.com/fluent/48/000000/github.png) **GitHub**
+
+### 🌐 Connect with Me
+- **Email**: [vramu7554@gmail.com](mailto:vramu7554@gmail.com)
+- **LinkedIn**: [Ramu V](https://www.linkedin.com/in/ramu-v-3274452a0)
+- **LeetCode**: [Ramu V](https://leetcode.com/u/ramu_v_/)
+
+### 📊 GitHub Stats
+![Ramu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramu148&show_icons=true&theme=radical)
+
+### 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramu148&layout=compact&theme=radical)
+
+### 🚀 LeetCode Stats
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Ramu_v_/)](https://leetcode.com/u/ramu_v_/)
 
 
 
