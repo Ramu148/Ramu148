@@ -7,21 +7,17 @@
  
 🛠️ Skills & Technologies
 
-**Languages**: **JavaScript** **Java**
--  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+**Languages**: **JavaScript**,**Java**
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
  
   
 
-**Front-End**:
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) **React.js**
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap**
+**Front-End**:**HTML5**,**CSS3**,**React.js**,**Bootstrap**
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png)![React](https://img.icons8.com/color/48/000000/react-native.png)![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+ 
 
-**Back-End**:
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
+**Back-End**:**Node.js**, **MySQL**, **MySQL**
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)  
 
 
 **Version Control**:
