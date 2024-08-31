@@ -1,16 +1,20 @@
-## 🚀 About Me-
+ 🚀 About Me-
 👋 Hi, I’m Ramu V
-- 👀 I’m a **Full Stack Developer** with a passion for building web applications using **HTML**, **CSS**, **JavaScript**, **ReactJS**, **Node.js**, and **MongoDB**.
+- 👀 I’m a **Full Stack Developer** with a passion for building web applications using HTML, CSS, JavaScript, ReactJS, Node.js, and MongoDB.
 - 🔭 I’m currently working on building responsive websites.
 - 🌱 I’m learning new frameworks and technologies to improve my skills.
 - 👯 I’m looking to collaborate on open-source projects.
  
-## 🛠️ Skills
+🛠️ Skills
 - **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
 - **Backend**: Node.js, Express
 - **Database**: MongoDB, SQL
 - **Version Control**: Git, GitHub
-- **Tools**: VS Code, 
+- **Tools**: VS Code,
+
+👨‍💻 What I’m Currently Working On:
+- Building a dynamic **online food recipe platform** using **ReactJS** with interactive ordering features.
+- Exploring and contributing to open-source projects to improve my full-stack skills. 
 
 ## 📫 Reach me at:
 - [LinkedIn](www.linkedin.com/in/ramu-v-3274452a0)
