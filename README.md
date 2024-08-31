@@ -6,22 +6,16 @@
 - 👯 I’m looking to collaborate on open-source projects.
  
 🛠️ Skills & Technologies
-**Languages**: **JavaScript**,**Java**
-
+**Languages**: 
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
  
   
-**Front-End**:**HTML5**,**CSS3**,**React.js**,**Bootstrap**
+**Front-End**:
  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png)![React](https://img.icons8.com/color/48/000000/react-native.png)![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
  
 
-**Back-End**:**Node.js**, **MySQL**, **MySQL**
+**Back-End**:
  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)  
-
-
-**Version Control**:
-- ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
-- ![GitHub](https://img.icons8.com/fluent/48/000000/github.png) **GitHub**
 
 ### 🌐 Connect with Me
 - **Email**: [vramu7554@gmail.com](mailto:vramu7554@gmail.com)
