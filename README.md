@@ -32,7 +32,7 @@
 ### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramu148&layout=compact&theme=radical)
 
-
+[![Resume Badge](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=readthedocs)](https://drive.google.com/file/d/1tGnxO2SL76msg2o8jZrXt64zXIvzAZHG/view?usp=drive_link)
 
 
 
