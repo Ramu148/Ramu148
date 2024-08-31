@@ -7,7 +7,7 @@
  
 🛠️ Skills
 - **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
-- **Backend**: Node.js, Express
+- **Backend**: Node.js
 - **Database**: MongoDB, SQL
 - **Version Control**: Git, GitHub
 - **Tools**: VS Code,
