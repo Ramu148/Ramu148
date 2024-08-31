@@ -8,8 +8,8 @@
 🛠️ Skills & Technologies
 
 **Languages**:
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript** ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
+- 
 
 **Front-End**:
 - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**
