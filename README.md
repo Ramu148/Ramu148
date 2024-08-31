@@ -7,9 +7,9 @@
  
 🛠️ Skills & Technologies
 
-**Languages**:
--  **JavaScript** ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- **Java** ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+**Languages**: **JavaScript** **Java**
+-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+ 
   
 
 **Front-End**:
@@ -39,8 +39,7 @@
 ### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramu148&layout=compact&theme=radical)
 
-### 🚀 LeetCode Stats
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Ramu_v_/)](https://leetcode.com/u/ramu_v_/)
+
 
 
 
